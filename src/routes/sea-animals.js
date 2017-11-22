@@ -18,9 +18,9 @@ router.get('/sea-animals', (req, res) => {
     animals = Animal.search(query)
   }
   else {
-    animals = Animal.all()
+    animals = Animal.all();
   }
-  res.json(animals)
+  res.json(animals);
 })
 
 router.get('/sea-animals/:id', (req, res) => {
