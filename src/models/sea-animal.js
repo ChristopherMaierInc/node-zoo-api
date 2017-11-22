@@ -1,32 +1,32 @@
 let items = [
   {
     id: 1,
-    name: 'Gorillas',
+    name: 'Sea Gorillas',
     count: 4
   },
   {
     id: 2,
-    name: 'Zebra',
+    name: 'Sea Zebra',
     count: 14
   },
   {
     id: 3,
-    name: 'Meercats',
+    name: 'Sea Meercats',
     count: 26
   },
   {
     id: 4,
-    name: 'Toad',
+    name: 'Sea Toad',
     count: 42
   },
   {
     id: 5,
-    name: 'Monkey',
+    name: 'Sea Monkey',
     count: 1411
   },
   {
     id: 6,
-    name: 'Unicorn',
+    name: 'Sea Unicorn',
     count: 261
   }
 ]
